@@ -1,1 +1,1 @@
-Estoy aprendiendo git.
+Estoy aprendiendo GIT
